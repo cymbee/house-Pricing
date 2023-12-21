@@ -1,4 +1,4 @@
-# house-Pricing
+# House-Pricing Project
 A house pricing prediction using different AI  models 
 
 This project compares various regression models that were applied to a housing dataset to forecast price changes.
